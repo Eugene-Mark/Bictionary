@@ -5,10 +5,10 @@ The abbreviation of Bigdata Dictionary. It's a periodically updated summary of t
 
 ## Catalogue
 ### A-Z
-[A][1]
+ - [A][1]
 
 
 ## Todo
-  1. A web portal about the terminology hot ratio in search engine
+ - A web portal about the terminology hot ratio in search engine
 
   [1]: https://www.pexels.com
