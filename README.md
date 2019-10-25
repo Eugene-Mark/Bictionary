@@ -12,5 +12,5 @@ The abbreviation of Bigdata Dictionary. It's a periodically updated summary of t
 ## Todo
  - A web portal with the terminology hot ratio in search engine
 
-  [1]: https://www.pexels.com
+  [1]: book/a.md
   [8]: book/h.md
