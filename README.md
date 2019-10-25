@@ -9,6 +9,6 @@ The abbreviation of Bigdata Dictionary. It's a periodically updated summary of t
 
 
 ## Todo
- - A web portal about the terminology hot ratio in search engine
+ - A web portal with the terminology hot ratio in search engine
 
   [1]: https://www.pexels.com
