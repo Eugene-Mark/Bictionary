@@ -7,3 +7,7 @@ Core modules
  - HDFS: distributed storage system
  - MapReduce: distributed compute system for parallel data processing
  - Common: support other modules
+
+
+## HPC
+High-performance computing focuses on build high performance computer clusters for fast speed calculations, like AI, science research and storm predict. 
